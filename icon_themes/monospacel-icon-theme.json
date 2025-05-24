@@ -807,7 +807,8 @@
         "xcworkspacedata": "xml",
         "xcproj": "xml",
         "xib": "xml",
-        "gitconfig": "git"
+        "gitconfig": "git",
+        "todo.md": "todo"
       },
       "file_icons": {
         "html": { "path": "./icons/html.svg" },
@@ -2062,7 +2063,8 @@
         "xcworkspacedata": "xml",
         "xcproj": "xml",
         "xib": "xml",
-        "gitconfig": "git"
+        "gitconfig": "git",
+        "todo.md": "todo"
       },
       "file_icons": {
         "html": { "path": "./icons/html.svg" },
