@@ -95,6 +95,10 @@
           "collapsed": "./icons/folder_git_light.svg",
           "expanded": "./icons/folder_git_light.svg"
         },
+        "icons": {
+          "collapsed": "./icons/folder_images_light.svg",
+          "expanded": "./icons/folder_images_light.svg"
+        },
         "images": {
           "collapsed": "./icons/folder_images_light.svg",
           "expanded": "./icons/folder_images_light.svg"
@@ -1496,6 +1500,10 @@
         "git": {
           "collapsed": "./icons/folder_git.svg",
           "expanded": "./icons/folder_git.svg"
+        },
+        "icons": {
+          "collapsed": "./icons/folder_images.svg",
+          "expanded": "./icons/folder_images.svg"
         },
         "images": {
           "collapsed": "./icons/folder_images.svg",
