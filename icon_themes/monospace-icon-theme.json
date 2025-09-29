@@ -139,11 +139,11 @@
           "collapsed": "./icons/folder_test_light.svg",
           "expanded": "./icons/folder_test_light.svg"
         },
-        "utils": {
-          "collapsed": "./icons/folder_utils_light.svg",
-          "expanded": "./icons/folder_utils_light.svg"
-        },
         "util": {
+          "collapsed": "./icons/folder_util_light.svg",
+          "expanded": "./icons/folder_util_light.svg"
+        },
+        "utils": {
           "collapsed": "./icons/folder_util_light.svg",
           "expanded": "./icons/folder_util_light.svg"
         },
@@ -1541,11 +1541,11 @@
           "collapsed": "./icons/folder_test.svg",
           "expanded": "./icons/folder_test.svg"
         },
-        "utils": {
-          "collapsed": "./icons/folder_utils.svg",
-          "expanded": "./icons/folder_utils.svg"
-        },
         "util": {
+          "collapsed": "./icons/folder_util.svg",
+          "expanded": "./icons/folder_util.svg"
+        },
+        "utils": {
           "collapsed": "./icons/folder_util.svg",
           "expanded": "./icons/folder_util.svg"
         },
