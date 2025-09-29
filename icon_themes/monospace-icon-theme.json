@@ -10,6 +10,152 @@
         "collapsed": "./icons/folder_light.svg",
         "expanded": "./icons/folder_light.svg"
       },
+      "named_directory_icons": {
+        ".android": {
+          "collapsed": "./icons/folder_android_light.svg",
+          "expanded": "./icons/folder_android_light.svg"
+        },
+        ".angular": {
+          "collapsed": "./icons/folder_angular_light.svg",
+          "expanded": "./icons/folder_angular_light.svg"
+        },
+        ".dart_tool": {
+          "collapsed": "./icons/folder_dart_light.svg",
+          "expanded": "./icons/folder_dart_light.svg"
+        },
+        ".firebase": {
+          "collapsed": "./icons/folder_firebase_light.svg",
+          "expanded": "./icons/folder_firebase_light.svg"
+        },
+        ".git": {
+          "collapsed": "./icons/folder_git_light.svg",
+          "expanded": "./icons/folder_git_light.svg"
+        },
+        ".github": {
+          "collapsed": "./icons/folder_git_light.svg",
+          "expanded": "./icons/folder_git_light.svg"
+        },
+        ".node_modules": {
+          "collapsed": "./icons/folder_node_light.svg",
+          "expanded": "./icons/folder_node_light.svg"
+        },
+        ".venv": {
+          "collapsed": "./icons/folder_venv_light.svg",
+          "expanded": "./icons/folder_venv_light.svg"
+        },
+        "angular": {
+          "collapsed": "./icons/folder_angular_light.svg",
+          "expanded": "./icons/folder_angular_light.svg"
+        },
+        "android": {
+          "collapsed": "./icons/folder_android_light.svg",
+          "expanded": "./icons/folder_android_light.svg"
+        },
+        "assets": {
+          "collapsed": "./icons/folder_images_light.svg",
+          "expanded": "./icons/folder_images_light.svg"
+        },
+        "blog": {
+          "collapsed": "./icons/folder_blog_light.svg",
+          "expanded": "./icons/folder_blog_light.svg"
+        },
+        "blogs": {
+          "collapsed": "./icons/folder_blog_light.svg",
+          "expanded": "./icons/folder_blog_light.svg"
+        },
+        "build": {
+          "collapsed": "./icons/folder_dist_light.svg",
+          "expanded": "./icons/folder_dist_light.svg"
+        },
+        "components": {
+          "collapsed": "./icons/folder_components_light.svg",
+          "expanded": "./icons/folder_components_light.svg"
+        },
+        "css": {
+          "collapsed": "./icons/folder_css_light.svg",
+          "expanded": "./icons/folder_css_light.svg"
+        },
+        "dist": {
+          "collapsed": "./icons/folder_dist_light.svg",
+          "expanded": "./icons/folder_dist_light.svg"
+        },
+        "docs": {
+          "collapsed": "./icons/folder_docs_light.svg",
+          "expanded": "./icons/folder_docs_light.svg"
+        },
+        "download": {
+          "collapsed": "./icons/folder_download_light.svg",
+          "expanded": "./icons/folder_download_light.svg"
+        },
+        "fonts": {
+          "collapsed": "./icons/folder_font_light.svg",
+          "expanded": "./icons/folder_font_light.svg"
+        },
+        "git": {
+          "collapsed": "./icons/folder_git_light.svg",
+          "expanded": "./icons/folder_git_light.svg"
+        },
+        "images": {
+          "collapsed": "./icons/folder_images_light.svg",
+          "expanded": "./icons/folder_images_light.svg"
+        },
+        "ios": {
+          "collapsed": "./icons/folder_ios_light.svg",
+          "expanded": "./icons/folder_ios_light.svg"
+        },
+        "json": {
+          "collapsed": "./icons/folder_json_light.svg",
+          "expanded": "./icons/folder_json_light.svg"
+        },
+        "lib": {
+          "collapsed": "./icons/folder_lib_light.svg",
+          "expanded": "./icons/folder_lib_light.svg"
+        },
+        "pages": {
+          "collapsed": "./icons/folder_pages_light.svg",
+          "expanded": "./icons/folder_pages_light.svg"
+        },
+        "scripts": {
+          "collapsed": "./icons/folder_scripts_light.svg",
+          "expanded": "./icons/folder_scripts_light.svg"
+        },
+        "services": {
+          "collapsed": "./icons/folder_services_light.svg",
+          "expanded": "./icons/folder_services_light.svg"
+        },
+        "settings": {
+          "collapsed": "./icons/folder_settings_light.svg",
+          "expanded": "./icons/folder_settings_light.svg"
+        },
+        "src": {
+          "collapsed": "./icons/folder_src_light.svg",
+          "expanded": "./icons/folder_src_light.svg"
+        },
+        "test": {
+          "collapsed": "./icons/folder_test_light.svg",
+          "expanded": "./icons/folder_test_light.svg"
+        },
+        "tests": {
+          "collapsed": "./icons/folder_test_light.svg",
+          "expanded": "./icons/folder_test_light.svg"
+        },
+        "utils": {
+          "collapsed": "./icons/folder_utils_light.svg",
+          "expanded": "./icons/folder_utils_light.svg"
+        },
+        "util": {
+          "collapsed": "./icons/folder_util_light.svg",
+          "expanded": "./icons/folder_util_light.svg"
+        },
+        "web": {
+          "collapsed": "./icons/folder_web_light.svg",
+          "expanded": "./icons/folder_web_light.svg"
+        },
+        "venv": {
+          "collapsed": "./icons/folder_venv_light.svg",
+          "expanded": "./icons/folder_venv_light.svg"
+        }
+      },
       "file_suffixes": {
         "htm": "html",
         "xhtml": "html",
@@ -1265,6 +1411,152 @@
       "directory_icons": {
         "collapsed": "./icons/folder.svg",
         "expanded": "./icons/folder.svg"
+      },
+      "named_directory_icons": {
+        ".android": {
+          "collapsed": "./icons/folder_android.svg",
+          "expanded": "./icons/folder_android.svg"
+        },
+        ".angular": {
+          "collapsed": "./icons/folder_angular.svg",
+          "expanded": "./icons/folder_angular.svg"
+        },
+        ".dart_tool": {
+          "collapsed": "./icons/folder_dart.svg",
+          "expanded": "./icons/folder_dart.svg"
+        },
+        ".firebase": {
+          "collapsed": "./icons/folder_firebase.svg",
+          "expanded": "./icons/folder_firebase.svg"
+        },
+        ".git": {
+          "collapsed": "./icons/folder_git.svg",
+          "expanded": "./icons/folder_git.svg"
+        },
+        ".github": {
+          "collapsed": "./icons/folder_git.svg",
+          "expanded": "./icons/folder_git.svg"
+        },
+        ".node_modules": {
+          "collapsed": "./icons/folder_node.svg",
+          "expanded": "./icons/folder_node.svg"
+        },
+        ".venv": {
+          "collapsed": "./icons/folder_venv.svg",
+          "expanded": "./icons/folder_venv.svg"
+        },
+        "angular": {
+          "collapsed": "./icons/folder_angular.svg",
+          "expanded": "./icons/folder_angular.svg"
+        },
+        "android": {
+          "collapsed": "./icons/folder_android.svg",
+          "expanded": "./icons/folder_android.svg"
+        },
+        "assets": {
+          "collapsed": "./icons/folder_images.svg",
+          "expanded": "./icons/folder_images.svg"
+        },
+        "blog": {
+          "collapsed": "./icons/folder_blog.svg",
+          "expanded": "./icons/folder_blog.svg"
+        },
+        "blogs": {
+          "collapsed": "./icons/folder_blog.svg",
+          "expanded": "./icons/folder_blog.svg"
+        },
+        "build": {
+          "collapsed": "./icons/folder_dist.svg",
+          "expanded": "./icons/folder_dist.svg"
+        },
+        "components": {
+          "collapsed": "./icons/folder_components.svg",
+          "expanded": "./icons/folder_components.svg"
+        },
+        "css": {
+          "collapsed": "./icons/folder_css.svg",
+          "expanded": "./icons/folder_css.svg"
+        },
+        "dist": {
+          "collapsed": "./icons/folder_dist.svg",
+          "expanded": "./icons/folder_dist.svg"
+        },
+        "docs": {
+          "collapsed": "./icons/folder_docs.svg",
+          "expanded": "./icons/folder_docs.svg"
+        },
+        "download": {
+          "collapsed": "./icons/folder_download.svg",
+          "expanded": "./icons/folder_download.svg"
+        },
+        "fonts": {
+          "collapsed": "./icons/folder_font.svg",
+          "expanded": "./icons/folder_font.svg"
+        },
+        "git": {
+          "collapsed": "./icons/folder_git.svg",
+          "expanded": "./icons/folder_git.svg"
+        },
+        "images": {
+          "collapsed": "./icons/folder_images.svg",
+          "expanded": "./icons/folder_images.svg"
+        },
+        "ios": {
+          "collapsed": "./icons/folder_ios.svg",
+          "expanded": "./icons/folder_ios.svg"
+        },
+        "json": {
+          "collapsed": "./icons/folder_json.svg",
+          "expanded": "./icons/folder_json.svg"
+        },
+        "lib": {
+          "collapsed": "./icons/folder_lib.svg",
+          "expanded": "./icons/folder_lib.svg"
+        },
+        "pages": {
+          "collapsed": "./icons/folder_pages.svg",
+          "expanded": "./icons/folder_pages.svg"
+        },
+        "scripts": {
+          "collapsed": "./icons/folder_scripts.svg",
+          "expanded": "./icons/folder_scripts.svg"
+        },
+        "services": {
+          "collapsed": "./icons/folder_services.svg",
+          "expanded": "./icons/folder_services.svg"
+        },
+        "settings": {
+          "collapsed": "./icons/folder_settings.svg",
+          "expanded": "./icons/folder_settings.svg"
+        },
+        "src": {
+          "collapsed": "./icons/folder_src.svg",
+          "expanded": "./icons/folder_src.svg"
+        },
+        "test": {
+          "collapsed": "./icons/folder_test.svg",
+          "expanded": "./icons/folder_test.svg"
+        },
+        "tests": {
+          "collapsed": "./icons/folder_test.svg",
+          "expanded": "./icons/folder_test.svg"
+        },
+        "utils": {
+          "collapsed": "./icons/folder_utils.svg",
+          "expanded": "./icons/folder_utils.svg"
+        },
+        "util": {
+          "collapsed": "./icons/folder_util.svg",
+          "expanded": "./icons/folder_util.svg"
+        },
+        "web": {
+          "collapsed": "./icons/folder_web.svg",
+          "expanded": "./icons/folder_web.svg"
+        },
+        "venv": {
+          "collapsed": "./icons/folder_venv.svg",
+          "expanded": "./icons/folder_venv.svg"
+        }
       },
       "file_suffixes": {
         "htm": "html",
