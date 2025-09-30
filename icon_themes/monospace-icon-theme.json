@@ -115,9 +115,17 @@
           "collapsed": "./icons/folder_lib_light.svg",
           "expanded": "./icons/folder_lib_light.svg"
         },
+        "node_modules": {
+          "collapsed": "./icons/folder_node_light.svg",
+          "expanded": "./icons/folder_node_light.svg"
+        },
         "pages": {
           "collapsed": "./icons/folder_pages_light.svg",
           "expanded": "./icons/folder_pages_light.svg"
+        },
+        "public": {
+          "collapsed": "./icons/folder_public_light.svg",
+          "expanded": "./icons/folder_public_light.svg"
         },
         "scripts": {
           "collapsed": "./icons/folder_scripts_light.svg",
@@ -1521,9 +1529,17 @@
           "collapsed": "./icons/folder_lib.svg",
           "expanded": "./icons/folder_lib.svg"
         },
+        "node_modules": {
+          "collapsed": "./icons/folder_node.svg",
+          "expanded": "./icons/folder_node.svg"
+        },
         "pages": {
           "collapsed": "./icons/folder_pages.svg",
           "expanded": "./icons/folder_pages.svg"
+        },
+        "public": {
+          "collapsed": "./icons/folder_public.svg",
+          "expanded": "./icons/folder_public.svg"
         },
         "scripts": {
           "collapsed": "./icons/folder_scripts.svg",
