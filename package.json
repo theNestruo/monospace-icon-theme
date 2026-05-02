@@ -1,0 +1,38 @@
+{
+	"publisher": "theNestruo",
+	"name": "monospace-icons-theme",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.88.0"
+	},
+	"displayName": "Monospace Icon Theme",
+	"description": "Monospace icons.",
+	"categories": [
+		"Themes"
+	],
+	"license": "Apache-2.0",
+	"pricing": "Free",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/theNestruo/monospace-vscode.git"
+	},
+	"author": {
+		"name": "Isheunopa Ralph Mhonde",
+		"email": "irmhonde@gmail.com"
+	},
+	"maintainers": [
+		{
+			"name": "Néstor Sancho",
+			"email": "theNestruo@gmail.com"
+		}
+	],
+	"contributes": {
+		"iconThemes": [
+			{
+				"id": "monospace",
+				"label": "Monospace Icon Theme",
+				"path": "./icon_themes/monospace-icon-theme.json"
+			}
+		]
+	}
+}
